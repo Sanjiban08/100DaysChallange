@@ -1,3 +1,4 @@
+//ADDING TWO NUMBERS GIVEN BY THE USER--
 #include <iostream>
 using namespace std;
 
@@ -11,7 +12,7 @@ int main()
     cout << "Enter two numbers to add: \n";
     cin >> A;
     cin >> B;
-	cout << "sum = " << addTwoNumber(A, B);
+	cout << "the sum is = " << addTwoNumber(A, B);
 	return 0;
 }
 
