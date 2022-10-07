@@ -2,6 +2,8 @@
 //d. 50 to 60 - C ,e. 60 to 80 - B, f. Above 80 - A. Ask user to enter marks and print the corresponding grade.
 
 #include <iostream>
+#include<bits/stdc++.h>
+
 int main() {
 	using namespace std;
 	int marks;
