@@ -2,6 +2,7 @@
 
 #include <iostream>
 using namespace std;
+
 int main(){
    int num;
    cout<<"Enter an integer number between 1 & 99999: ";
