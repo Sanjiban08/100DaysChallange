@@ -3,7 +3,6 @@
 //Is student is allowed to sit in exam or not.
 
 #include <iostream>
-
 int main() {
     using namespace std;
     int ch, ca, ap;
