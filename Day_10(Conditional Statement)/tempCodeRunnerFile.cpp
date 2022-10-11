@@ -1,0 +1,1 @@
+Calculate and show how many digits a no has between 1 & 99999
