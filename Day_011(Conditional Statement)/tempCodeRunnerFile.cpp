@@ -1,0 +1,1 @@
+Check Vowel or a Consonant Manually
