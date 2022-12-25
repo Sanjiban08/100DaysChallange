@@ -1,4 +1,4 @@
-// Remove elements from a Stack. ----
+// Remove elements from a Stack. -----
 
 #include <iostream>
 #include <stack>
