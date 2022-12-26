@@ -1,0 +1,1 @@
+Check if a Stack is empty.
